@@ -14,14 +14,18 @@
   color: #FFFFFF;
   text-decoration: none;
   font-weight: bold;
-  padding: 8px 20px 8px 20px;
-  border-radius: 40px;
+  padding: 6px 18px 6px 18px;
+  border-radius: 40px; /*丸み*/
+  
+  border: double 3px #668ad8; /*枠*/
 
 
 /* 
 　 padding 上 右 下 左　
    border-radius 丸み
 
+   border: solid 一重 #668ad8
+   border: double 二重 #8EB8FF
 			*/
 
 /* □表示　*/
