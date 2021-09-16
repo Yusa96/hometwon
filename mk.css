@@ -1,6 +1,6 @@
 html {
    background-color: #000033;  /* 両端部分に付ける背景色（画像がある場合無しでもいい） */
-   background-image: url("../../img/MKpic4.jpg"); /* 両端部分に付ける背景画像 */
+   background-image: url("MKpic4.jpg"); /* 両端部分に付ける背景画像 */
   /*background-size: cover;                 全画面 */
    background-attachment: fixed;          /* 固定 (重要) */
 
