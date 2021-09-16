@@ -1,0 +1,15 @@
+header{
+  display: flex; /*位地固定*/
+  width: 100%;	/*横幅*/
+  height: 95px;/*縦幅*/
+  background-color: #24444F;   
+  align-items: center;
+}
+
+.title{
+	text-align: center;
+	color: #4689FF;
+	padding: 16px;/*左からの位地*/
+}
+
+

@@ -1,0 +1,24 @@
+.btn-social-long-hulu {
+  color: #66AA33; /*文字・アイコン色*/
+  border-radius: 7px;/*角丸に*/
+  display: inline-block;
+  height: 50px;/*高さ*/
+  width: 130px;/*幅*/
+  text-align: center;/*中身を中央寄せ*/
+  font-size: 25px;/*文字のサイズ*/
+  line-height: 50px;/*高さと合わせる*/
+  background: #030303;
+  overflow: hidden;/*はみ出た部分を隠す*/
+  text-decoration:none;/*下線は消す*/
+}
+
+.btn-social-long-hulu .fa-hulu {
+  text-shadow: 2px 3px 2px #;
+  font-size: 27px;
+}
+
+/*
+#005500
+text-shadow: <水平方向の距離> <垂直方向の距離> <影のぼかし半径> <影の色>
+
+*/

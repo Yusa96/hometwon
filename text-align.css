@@ -1,0 +1,10 @@
+/*中央揃え*/
+.main{
+	text-align: center;
+}
+
+/*中央揃え 左揃え*/
+.main .text{
+	text-align: left;
+	display: inline-block;
+}

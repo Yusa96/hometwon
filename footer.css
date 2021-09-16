@@ -1,0 +1,20 @@
+footer { 
+  font-family: verdana;/*フォント 英字半角がverdanaに*/
+  display: flex; /*位地固定*/
+  width: 100%;	/*幅率*/
+  height: 70px;	/*高さ*/
+  background-color: #24444F;
+  align-items: center;
+}
+
+.menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 15px; /*左からのボタン位置*/
+}
+
+a {
+
+padding: 10px; /*ボタン内 幅*/
+
+}
